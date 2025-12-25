@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Hi 👋</h3>
+<h3>Hi 👋 </h3>
 <h1>I'm Abrar Rajin</h1>
 
 
@@ -10,7 +10,10 @@
 <h3>🎓 Computer Science Student | 💻 ML & Systems Enthusiast | 🔍 Undergraduate Researcher  
 
 
- 🎨 Visual Artist | Animation • 3D • CAD • Motion & Video Editing 
+ 🎨 Visual Artist : 3D Modeling • CAD • Motion & Video Editing 
+
+  
+
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abrarrajin)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/S-M-Abrar-Rajin/research)
@@ -24,6 +27,9 @@
 
 ![](https://komarev.com/ghpvc/?username=AbrarRajin&style=for-the-badge&color=ff8f17)
 
+
+---
+` 🛠️ Tech Stack:`  
 ![Java](https://img.shields.io/badge/Java-%23202124.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23202124.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23202124.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
