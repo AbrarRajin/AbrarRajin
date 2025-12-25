@@ -1,6 +1,13 @@
-# S. M. Abrar Rajin
+<div align="center">
 
-`🎓 Computer Science Student | 💻 ML & Systems Enthusiast | 🔍 Undergraduate Researcher`
+<h3>Hi 👋</h3>
+<h1>I'm Abrar Rajin</h1>
+
+
+
+
+
+__`🎓 Computer Science Student | 💻 ML & Systems Enthusiast | 🔍 Undergraduate Researcher`__
 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abrarrajin)
@@ -25,3 +32,5 @@
 
 
 ---
+
+</div>
