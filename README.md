@@ -1,13 +1,13 @@
 # S. M. Abrar Rajin
-```
+
 🎓 Computer Science Student | 💻 ML & Systems Enthusiast | 🔍 Undergraduate Researcher
-```
+
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abrarrajin)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/S-M-Abrar-Rajin/research)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=dark&border_radius=25&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=dark&border_radius=25&mode=daily)](https://git.io/streak-stats)
 
 
 ![Java](https://img.shields.io/badge/Java-%23202124.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,5 +16,4 @@
 ![Python](https://img.shields.io/badge/Python-%23202124.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23202124.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23202124.svg?style=for-the-badge&logo=javascript&logoColor=white)
-
-
+![LaTeX](https://img.shields.io/badge/LaTeX-%23202124.svg?style=for-the-badge&logo=latex&logoColor=white)
