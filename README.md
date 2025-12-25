@@ -20,3 +20,7 @@
 ![PHP](https://img.shields.io/badge/PHP-%23202124.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23202124.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23202124.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+
+---
+![](https://komarev.com/ghpvc/?username=AbrarRajin)
