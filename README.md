@@ -1,6 +1,6 @@
 # S. M. Abrar Rajin
 
-🎓 Computer Science Student | 💻 ML & Systems Enthusiast | 🔍 Undergraduate Researcher
+`🎓 Computer Science Student | 💻 ML & Systems Enthusiast | 🔍 Undergraduate Researcher`
 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abrarrajin)
@@ -13,6 +13,8 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=dark&border_radius=25&mode=daily)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=AbrarRajin&style=for-the-badge&color=ff8f17)
+
 ![Java](https://img.shields.io/badge/Java-%23202124.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23202124.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23202124.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,4 +25,3 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=AbrarRajin)
