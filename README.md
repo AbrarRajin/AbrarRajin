@@ -5,10 +5,13 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abrarrajin)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/S-M-Abrar-Rajin/research)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=97wMeP0AAAAJ&hl=en)
+
+
+
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=dark&border_radius=25&mode=daily)](https://git.io/streak-stats)
-
 
 ![Java](https://img.shields.io/badge/Java-%23202124.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23202124.svg?style=for-the-badge&logo=c&logoColor=white)
