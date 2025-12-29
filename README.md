@@ -24,7 +24,7 @@
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=tokyonight&border_radius=25&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-kappa-five-46.vercel.app?user=AbrarRajin&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=AbrarRajin&style=for-the-badge&color=5289ff)
 
