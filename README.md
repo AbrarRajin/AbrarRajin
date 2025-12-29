@@ -9,10 +9,10 @@
 
 <h3>🎓 Computer Science Student | 💻 ML & Systems Enthusiast | 🔍 Undergraduate Researcher  
 
-<br>
+
  🎨 Visual Artist : 3D Modeling • CAD • Motion & Video Editing 
 
-  <br>
+---
 
 `🔗 Connect with me:`  
 
@@ -24,7 +24,7 @@
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=dark&border_radius=25&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=tokyonight&border_radius=25&mode=daily)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=AbrarRajin&style=for-the-badge&color=5289ff)
 
