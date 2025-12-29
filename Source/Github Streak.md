@@ -5,9 +5,9 @@ Website to edit: https://streak-stats.demolab.com/demo/
 ### My Current Link:  
 `Visual:`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbrarRajin&theme=dark&border_radius=25&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-kappa-five-46.vercel.app?user=AbrarRajin&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-`Code:`
+`Code: now self hosted`
 ```
-https://streak-stats.demolab.com?user=AbrarRajin&theme=dark&border_radius=25&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-kappa-five-46.vercel.app?user=AbrarRajin&theme=tokyonight-duo)](https://git.io/streak-stats)
 ```
