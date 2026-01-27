@@ -17,3 +17,5 @@
 - Google Scholar ➜  
     > [Profile](https://scholar.google.com/citations?user=97wMeP0AAAAJ&hl=en)
 ---
+- [Researchgate ID](https://www.researchgate.net/profile/S-M-Abrar-Rajin-2) ➜
+---
