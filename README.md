@@ -62,14 +62,15 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1109/ACCESS.2025.3637023-blue?style=for-the-badge&logo=ieee)](https://doi.org/10.1109/ACCESS.2025.3637023)
 [![IEEE Access](https://img.shields.io/badge/IEEE%20Access-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ACCESS.2025.3637023)
 
----
-> 
-### 🔍 Peer Review:
-![IEEE Access](https://img.shields.io/badge/IEEE%20Access-2%20Reviews-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 
 ---
 
+### 🔍 Peer Review
 
+[![IEEE Access](https://img.shields.io/badge/IEEE%20Access%20Reviewer-2%20Papers-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.webofscience.com/wos/author/record/PHP-1696-2026)
+[![Publons](https://img.shields.io/badge/Verified%20on-Web%20of%20Science-772fad?style=for-the-badge&logo=webofscience&logoColor=white)](https://www.webofscience.com/wos/author/record/PHP-1696-2026)
+
+---
 
 
 </div>
