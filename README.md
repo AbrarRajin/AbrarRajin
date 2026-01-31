@@ -56,7 +56,7 @@
 
 ### 📄 Publications
 
-> **Dual-Attention ResUNet With Masked Focal-Tversky Loss for Robust SAR-Based Flood Mapping**  
+ **Dual-Attention ResUNet With Masked Focal-Tversky Loss for Robust SAR-Based Flood Mapping**  
 *S. M. Abrar Rajin*, Atanu Das, Goh Kah Ong Michael, Shuvodip Biswas, Nabibun Billah, Riasat Khan  
 **IEEE Access**, Vol. 13, pp. 201460-201477, 2025  
 [![DOI](https://img.shields.io/badge/DOI-10.1109/ACCESS.2025.3637023-blue?style=for-the-badge&logo=ieee)](https://doi.org/10.1109/ACCESS.2025.3637023)
