@@ -65,7 +65,7 @@
 
 ---
 
-### 🔍 Peer Review
+### 🔍 Peer Reviews
 
 [![IEEE Access](https://img.shields.io/badge/IEEE%20Access%20Reviewer-2%20Papers-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.webofscience.com/wos/author/record/PHP-1696-2026)
 [![Publons](https://img.shields.io/badge/Verified%20on-Web%20of%20Science-772fad?style=for-the-badge&logo=webofscience&logoColor=white)](https://www.webofscience.com/wos/author/record/PHP-1696-2026)
