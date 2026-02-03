@@ -16,7 +16,8 @@
 
 ### 🎓 Education
 
-**Bachelor of Science in Computer Science and Engineering (BSCSE)**  
+#### **Bachelor of Science in Computer Science and Engineering (BSCSE)**  
+
 ![Status](https://img.shields.io/badge/Status-Degree%20Analysis%20Phase-success?style=for-the-badge)
 [![AI Trail](https://img.shields.io/badge/Specialization-Artificial%20Intelligence-5289ff?style=for-the-badge&logo=brain&logoColor=white)](https://ece.northsouth.edu/undergraduate/academics/programs/bs-cse/)
 
