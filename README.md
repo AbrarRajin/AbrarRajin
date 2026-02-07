@@ -4,8 +4,8 @@
 <h1>I'm S. M. Abrar Rajin</h1>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abrarrajin)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-428f88?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/S-M-Abrar-Rajin/research)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-1dd18c?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=97wMeP0AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-39414f?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/S-M-Abrar-Rajin/research)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-428f88?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=97wMeP0AAAAJ&hl=en)
 [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-772fad?style=for-the-badge&logo=webofscience&logoColor=white)](https://www.webofscience.com/wos/author/record/PHP-1696-2026)
 
 
